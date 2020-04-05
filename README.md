@@ -1,7 +1,7 @@
 ## Understanding SARS-CoV-2
 
 ### Questions:
--What are the exact roles of ORF1a and ORF1b?
+- What are the exact roles of ORF1a and ORF1b?
 - Is TM score (as defined by the Zhang lab https://zhanglab.ccmb.med.umich.edu/TM-score/ ) a good tool for estimating protein similarity (e.g. between Sars1, or MERS and Sars-cov-2)
 - Is ORF3a (encoding the viroporin) behind the disease phenotype?
 
