@@ -24,7 +24,7 @@
 - "Viroporins: structure and biological functions" https://www.nature.com/articles/nrmicro2820
 	-	"Viroporins are small, hydrophobic proteins that are encoded by a wide range of clinically relevant animal viruses. When these proteins oligomerize in host cell membranes, they form hydrophilic pores that disrupt a number of physiological properties of the cell. Viroporins are crucial for viral pathogenicity"
 	-	"Current hypotheses suggest that viroporins form aqueous channels following insertion into the host cell membrane and subsequent oligomerization. We propose that viroporins be classified into two major groups, class I and class II"
-	- 	![Cytopathic effects of viroporins and their functions during the viral life cycle.](./figures/viroporin_action.png){#id .class width=50% height=50%}
+	 ![Cytopathic effects of viroporins and their functions during the viral life cycle.](./figures/viroporin_action.png)
 
 - "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1567914/
 
