@@ -4,6 +4,7 @@
 - What are the exact roles of ORF1a and ORF1b?
 - Is TM score (as defined by the Zhang lab https://zhanglab.ccmb.med.umich.edu/TM-score/ ) a good tool for estimating protein similarity (e.g. between Sars1, or MERS and Sars-cov-2)
 - Is ORF3a (encoding the viroporin) behind the disease phenotype?
+	- What class of viroporin is encoded here (following the classification scheme proposed by Nieve et al 2012)?	
 - How perfect (or far from perfect) is the RCB(receptor binding pocket) affinity to human ACE2?
 	- how can one compare binding affinities between SARS-CoV-2 RCB and human ACE2 or bat ACE2 (or any other species)?
 		- if through simulation, what kind?
@@ -22,8 +23,11 @@
 	-	"Neither the bat betacoronaviruses nor the pangolin betacoronaviruses sampled thus far have polybasic cleavage sites"
 - "Viroporins: structure and biological functions" https://www.nature.com/articles/nrmicro2820
 	-	"Viroporins are small, hydrophobic proteins that are encoded by a wide range of clinically relevant animal viruses. When these proteins oligomerize in host cell membranes, they form hydrophilic pores that disrupt a number of physiological properties of the cell. Viroporins are crucial for viral pathogenicity"
-	-	""
-	- 	![Caption for the picture.](viroporins1.png)
+	-	"Current hypotheses suggest that viroporins form aqueous channels following insertion into the host cell membrane and subsequent oligomerization. We propose that viroporins be classified into two major groups, class I and class II"
+	- 	![Cytopathic effects of viroporins and their functions during the viral life cycle.](viroporin_action.png){#id .class width=50% height=50%}
+
+- "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1567914/
+
 
 - "Neuroinvasive and Neurotropic Human Respiratory Coronaviruses: Potential Neurovirulent Agents in Humans" https://link.springer.com/chapter/10.1007%2F978-81-322-1777-0_6
 - "Host strategies against virus entry via theolfactory system" https://www.tandfonline.com/doi/pdf/10.4161/viru.2.4.16138
