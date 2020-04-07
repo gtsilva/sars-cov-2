@@ -4,7 +4,13 @@
 - What are the exact roles of ORF1a and ORF1b?
 - Is TM score (as defined by the Zhang lab https://zhanglab.ccmb.med.umich.edu/TM-score/ ) a good tool for estimating protein similarity (e.g. between Sars1, or MERS and Sars-cov-2)
 - Is ORF3a (encoding the viroporin) behind the disease phenotype?
-	- What class of viroporin is encoded here (following the classification scheme proposed by Nieve et al 2012)?	
+	- What is this channel pearmeable for?
+	- What are the basic electrophysiological properties of this viroporin?
+		- Any antagonists perhaps modulators?
+	- What class of viroporin is encoded here (following the classification scheme proposed by Nieva et al 2012)?	
+	- what gates the channel?
+- Is protein E (26245:26472) behind the viroporin (as suggested by Nieva et al 2012), namely:
+	- "(SARS-CoV). These viruses encode a small protein named envelope small membrane protein (E protein), which ranges from 76 to 109 amino acids in size44. It consists of a short hydrophilic domain (about 21–29 residues) preceding the transmembrane region, which is followed by a longer hydrophilic carboxyl tail. The amino-terminal 40 amino acids of SARS-CoV E protein are sufficient for the formation of ion channels that are selective for monovalent cations"
 - How perfect (or far from perfect) is the RCB(receptor binding pocket) affinity to human ACE2?
 	- how can one compare binding affinities between SARS-CoV-2 RCB and human ACE2 or bat ACE2 (or any other species)?
 		- if through simulation, what kind?
@@ -25,6 +31,9 @@
 	-	"Viroporins are small, hydrophobic proteins that are encoded by a wide range of clinically relevant animal viruses. When these proteins oligomerize in host cell membranes, they form hydrophilic pores that disrupt a number of physiological properties of the cell. Viroporins are crucial for viral pathogenicity"
 	-	"Current hypotheses suggest that viroporins form aqueous channels following insertion into the host cell membrane and subsequent oligomerization. We propose that viroporins be classified into two major groups, class I and class II"
 	 ![Cytopathic effects of viroporins and their functions during the viral life cycle.](./figures/viroporin_action.png)
+	-	"(SARS-CoV). These viruses encode a small protein named envelope small membrane protein (E protein), which ranges from 76 to 109 amino acids in size44. It consists of a short hydrophilic domain (about 21–29 residues) preceding the transmembrane region, which is followed by a longer hydrophilic carboxyl tail."
+
+- "SARS coronavirus E protein forms cation-selective ion channels" https://www.sciencedirect.com/science/article/pii/S0042682204006440
 
 - "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1567914/
 
