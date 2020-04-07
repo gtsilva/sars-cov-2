@@ -37,7 +37,7 @@
 
 - "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1567914/
 
-
+#### A couple of studies on potential neurotrophic effects:
 - "Neuroinvasive and Neurotropic Human Respiratory Coronaviruses: Potential Neurovirulent Agents in Humans" https://link.springer.com/chapter/10.1007%2F978-81-322-1777-0_6
-- "Host strategies against virus entry via theolfactory system" https://www.tandfonline.com/doi/pdf/10.4161/viru.2.4.16138
+- "Host strategies against virus entry via the olfactory system" https://www.tandfonline.com/doi/pdf/10.4161/viru.2.4.16138
  
