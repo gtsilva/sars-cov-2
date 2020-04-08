@@ -3,21 +3,23 @@
 ### Questions:
 - What are the exact roles of ORF1a and ORF1b?
 - Is TM score (as defined by the Zhang lab https://zhanglab.ccmb.med.umich.edu/TM-score/ ) a good tool for estimating protein similarity (e.g. between Sars1, or MERS and Sars-cov-2)
-- Is ORF3a (encoding the viroporin) behind the disease phenotype?
-	- What is this channel pearmeable for?
-	- What are the basic electrophysiological properties of this viroporin?
-		- Any antagonists perhaps modulators?
-	- What class of viroporin is encoded here (following the classification scheme proposed by Nieva et al 2012)?	
+- Is ORF3a (a viroporin encoding candidate) behind the disease phenotype?
+	- What is this channel pearmeable to?
+	- What are the basic electrophysiological properties of this specific viroporin?
+		- Any known antagonists or perhaps modulators?
+	- What class of viroporin are we talking about (following the classification scheme proposed by Nieva et al 2012)?	
 	- what gates the channel?
-- Is protein E (26245:26472) behind the viroporin (as suggested by Nieva et al 2012), namely:
+- Is protein E (26245:26472) behind the viroporin (as suggested by Nieva et al 2012):
 	- "(SARS-CoV). These viruses encode a small protein named envelope small membrane protein (E protein), which ranges from 76 to 109 amino acids in size44. It consists of a short hydrophilic domain (about 21–29 residues) preceding the transmembrane region, which is followed by a longer hydrophilic carboxyl tail. The amino-terminal 40 amino acids of SARS-CoV E protein are sufficient for the formation of ion channels that are selective for monovalent cations"
-- How perfect (or far from perfect) is the RCB(receptor binding pocket) affinity to human ACE2?
+- Are both protein E and ORF3a ion channels (penta- and tetrameric respectively)?
+	- If so, how do they interact?
+- How perfect (or far from) is the RCB(receptor binding pocket) affinity to human ACE2?
 	- how can one compare binding affinities between SARS-CoV-2 RCB and human ACE2 or bat ACE2 (or any other species)?
 		- if through simulation, what kind?
-- (RCB related): Is there an example of fully formed polybasic cleavage sites in any SARS-CoV-2-like virus from animals in the literature? Can a BLAST search help here?
+- (RCB related): Is there an example of fully formed polybasic cleavage sites in any SARS-CoV-2-like virus (animal host) in the literature? Can a BLAST search help here?
 
 
-### References:
+### :books: References:
 - "A new coronavirus associated with human respiratory disease in China" https://www.nature.com/articles/s41586-020-2008-3
 	-  "The order of genes (5′ to 3′) was as follows:replicase ORF1ab, spike (S), envelope (E), membrane (M) and nucleocapsid (N)."
 	-  "The predicted replicase ORF1ab gene of WHCV is 21,291 nt in length and contained 16 predicted non-structural proteins..followed by (at least) 13 downstream ORFs"
@@ -33,9 +35,11 @@
 	 ![Cytopathic effects of viroporins and their functions during the viral life cycle.](./figures/viroporin_action.png)
 	-	"(SARS-CoV). These viruses encode a small protein named envelope small membrane protein (E protein), which ranges from 76 to 109 amino acids in size44. It consists of a short hydrophilic domain (about 21–29 residues) preceding the transmembrane region, which is followed by a longer hydrophilic carboxyl tail."
 
+- "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1567914/
+	-	"We observed that oocytes expressing 3a protein at their membrane surface led to a dramatic increase of membrane current over the entire potential range in 100 mM potassium solution (Fig. 4E). Therefore, in this study we focused only on testing whether 3a protein could serve as a potassium ion channel."
 - "SARS coronavirus E protein forms cation-selective ion channels" https://www.sciencedirect.com/science/article/pii/S0042682204006440
 
-- "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1567914/
+
 
 #### A couple of studies on potential neurotrophic effects:
 - "Neuroinvasive and Neurotropic Human Respiratory Coronaviruses: Potential Neurovirulent Agents in Humans" https://link.springer.com/chapter/10.1007%2F978-81-322-1777-0_6
