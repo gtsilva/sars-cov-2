@@ -39,6 +39,7 @@
 	-	"We observed that oocytes expressing 3a protein at their membrane surface led to a dramatic increase of membrane current over the entire potential range in 100 mM potassium solution (Fig. 4E). Therefore, in this study we focused only on testing whether 3a protein could serve as a potassium ion channel."
 - "SARS coronavirus E protein forms cation-selective ion channels" https://www.sciencedirect.com/science/article/pii/S0042682204006440
 
+- Kv10.1 model "Amino terminal-dependent gating of the potassium channel rat eag is compensated by a mutation in the S4 segment." https://www.ncbi.nlm.nih.gov/pubmed/9279806
 
 
 #### A couple of studies on potential neurotrophic effects:
