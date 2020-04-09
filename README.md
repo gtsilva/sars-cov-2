@@ -18,6 +18,10 @@
 		- if through simulation, what kind?
 - (RCB related): Is there an example of fully formed polybasic cleavage sites in any SARS-CoV-2-like virus (animal host) in the literature? Can a BLAST search help here?
 
+### :wrench: TO-DO
+- Blast search on both ORF3a and protein E 
+- Are there blockers/modullators of M2 (Influenza viroporin)
+	- is there any homology between M2 and ORF3 (or protein E)
 
 ### :books: References:
 - "A new coronavirus associated with human respiratory disease in China" https://www.nature.com/articles/s41586-020-2008-3
