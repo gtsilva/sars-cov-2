@@ -12,9 +12,9 @@ from sys import stdout
 parser = argparse.ArgumentParser(description='Stupid parser to deal with corrected ("fixed pdb files").')
 parser.add_argument('--scratch', action='store_true')
 parser.add_argument('--temp', type=int, default=300)
-parser.add_argument('--steps', type=int, default=100000, help="2500000000 should fold the protein")
+parser.add_argument('--steps', type=int, default=10000, help="2500000000 should fold the protein")
 parser.add_argument('--writes', type=int, default=1000, help="default is 1000")
-parser.add_argument('--out', type=str, default="/tmp/output.pdb")
+parser.add_argument('--out', type=str, default="tmp/output.pdb")
 parser.add_argument('--pdb', type=str, default="data/QHD43417_fixed.pdb")
 parser.add_argument('--fasta', type=str, default=None)
 args = parser.parse_args(sys.argv[1:])
@@ -31,8 +31,8 @@ if args.scratch:
     fasta = open(protein_fasta).read().split("\n")[1]
   print("folding %s" % fasta)
   from lib import write_unfolded
-  write_unfolded(fasta, "/tmp/unfolded.pdb")
-  pdb = PDBFile("/tmp/unfolded.pdb")
+  write_unfolded(fasta, "tmp/unfolded.pdb")
+  pdb = PDBFile("tmp/unfolded.pdb")
 else:
   # already folded protein
   pdb = PDBFile(args.pdb)
